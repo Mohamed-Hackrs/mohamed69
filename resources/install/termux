@@ -11,8 +11,8 @@ if [ -d "resources" ]; then
     echo "Jmthon already cloned."
 else
     apt install git -y
-    git clone https://github.com/thejmthon/jmthon
-    cd jmthon
+    git clone https://github.com/Mohamed-Hackrs/mohamed69
+    cd mohamed69
 fi
 
 printf "Updating system...\n\n"
